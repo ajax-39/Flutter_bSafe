@@ -2,6 +2,9 @@
 
 Welcome to bSafe, a comprehensive women's safety app designed to provide you with peace of mind and support in times of need. Whether you're commuting, traveling, or simply going about your daily activities, bSafe is here to ensure your safety with a suite of powerful features.
 
+## Demo Preview   
+[![bSafe Demo](https://img.youtube.com/vi/gUbb2mIZKwU/1.jpg)](https://youtu.be/gUbb2mIZKwU)  
+
 
 ## Table of Contents
 - [Features](#features)
