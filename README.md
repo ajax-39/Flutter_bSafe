@@ -5,6 +5,15 @@ Welcome to bSafe, a comprehensive women's safety app designed to provide you wit
 ## Demo Preview   
 [![bSafe Demo](https://img.youtube.com/vi/gUbb2mIZKwU/1.jpg)](https://youtu.be/gUbb2mIZKwU)  
 
+## Hosted URL
+Download the latest APK and start playing! 🎮  
+
+<a href="https://bit.ly/3E1WP8a" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4e7ed9b6-7f35-4f5e-bde1-0aff6df104c4" alt="Download APK" width="100" height ="100"/>
+</a>  
+
+🔽 **Click Below to Download** 🔽  
+[📥 Download APK](https://bit.ly/3E1WP8a)  
 
 
 
