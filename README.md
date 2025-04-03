@@ -6,6 +6,8 @@ Welcome to bSafe, a comprehensive women's safety app designed to provide you wit
 [![bSafe Demo](https://img.youtube.com/vi/gUbb2mIZKwU/1.jpg)](https://youtu.be/gUbb2mIZKwU)  
 
 
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
